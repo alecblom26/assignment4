@@ -62,6 +62,8 @@ print(summary_data)
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+resulting from the data summary, their is a difference between countries with or without a revolution. we can see this as the mean and median differ in the growth rate, this means that revolution do effect economic growth
+
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
